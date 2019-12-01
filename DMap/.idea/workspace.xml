@@ -2,19 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6081d70d-bc54-451f-a6ea-fb1112080ef1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/$CACHE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/DashaMaps.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DMap/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DashaMap/DashaMap.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DashaMaps.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/word-list.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/$CACHE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DMap.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DMap.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DashaMapOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DashaMapOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DashaMapThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DashaMapThree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DashaMapTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DashaMapTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../word-list.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +39,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -40,7 +49,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1ULvx2rUxMkIFTIJcb90awcmAcf" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -50,6 +59,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -65,6 +75,52 @@
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src" />
     </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MapTests (1)">
+    <configuration name="All in DashaMaps" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DashaMaps" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapTests (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DashaMaps" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MapTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DMap" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MapTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapTests.testGet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DMap" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MapTests" />
+      <option name="METHOD_NAME" value="testGet" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MapTests (1)" />
+        <item itemvalue="JUnit.All in DashaMaps" />
+        <item itemvalue="JUnit.MapTests.testGet" />
+        <item itemvalue="JUnit.MapTests" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -112,22 +168,38 @@
       <screen x="-309" y="-1080" width="1920" height="1080" />
     </state>
     <state x="464" y="-817" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800/-309.-1080.1920.1080@-309.-1080.1920.1080" timestamp="1575158504178" />
-    <state width="1878" height="304" key="GridCell.Tab.0.bottom" timestamp="1575152208899">
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom" timestamp="1575163260138">
       <screen x="-309" y="-1080" width="1920" height="1080" />
     </state>
-    <state width="1878" height="304" key="GridCell.Tab.0.bottom/0.0.1280.800/-309.-1080.1920.1080@-309.-1080.1920.1080" timestamp="1575152208899" />
-    <state width="1878" height="304" key="GridCell.Tab.0.center" timestamp="1575152208897">
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom/0.0.1280.800/-309.-1080.1920.1080@-309.-1080.1920.1080" timestamp="1575163260138" />
+    <state width="1878" height="304" key="GridCell.Tab.0.center" timestamp="1575163260135">
       <screen x="-309" y="-1080" width="1920" height="1080" />
     </state>
-    <state width="1878" height="304" key="GridCell.Tab.0.center/0.0.1280.800/-309.-1080.1920.1080@-309.-1080.1920.1080" timestamp="1575152208897" />
-    <state width="1878" height="304" key="GridCell.Tab.0.left" timestamp="1575152208895">
+    <state width="1878" height="304" key="GridCell.Tab.0.center/0.0.1280.800/-309.-1080.1920.1080@-309.-1080.1920.1080" timestamp="1575163260135" />
+    <state width="1878" height="304" key="GridCell.Tab.0.left" timestamp="1575163260134">
       <screen x="-309" y="-1080" width="1920" height="1080" />
     </state>
-    <state width="1878" height="304" key="GridCell.Tab.0.left/0.0.1280.800/-309.-1080.1920.1080@-309.-1080.1920.1080" timestamp="1575152208895" />
-    <state width="1878" height="304" key="GridCell.Tab.0.right" timestamp="1575152208898">
+    <state width="1878" height="304" key="GridCell.Tab.0.left/0.0.1280.800/-309.-1080.1920.1080@-309.-1080.1920.1080" timestamp="1575163260134" />
+    <state width="1878" height="304" key="GridCell.Tab.0.right" timestamp="1575163260136">
       <screen x="-309" y="-1080" width="1920" height="1080" />
     </state>
-    <state width="1878" height="304" key="GridCell.Tab.0.right/0.0.1280.800/-309.-1080.1920.1080@-309.-1080.1920.1080" timestamp="1575152208898" />
+    <state width="1878" height="304" key="GridCell.Tab.0.right/0.0.1280.800/-309.-1080.1920.1080@-309.-1080.1920.1080" timestamp="1575163260136" />
+    <state width="1878" height="375" key="GridCell.Tab.1.bottom" timestamp="1575163259560">
+      <screen x="-309" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="375" key="GridCell.Tab.1.bottom/0.0.1280.800/-309.-1080.1920.1080@-309.-1080.1920.1080" timestamp="1575163259560" />
+    <state width="1878" height="375" key="GridCell.Tab.1.center" timestamp="1575163259558">
+      <screen x="-309" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="375" key="GridCell.Tab.1.center/0.0.1280.800/-309.-1080.1920.1080@-309.-1080.1920.1080" timestamp="1575163259558" />
+    <state width="1878" height="375" key="GridCell.Tab.1.left" timestamp="1575163259557">
+      <screen x="-309" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="375" key="GridCell.Tab.1.left/0.0.1280.800/-309.-1080.1920.1080@-309.-1080.1920.1080" timestamp="1575163259557" />
+    <state width="1878" height="375" key="GridCell.Tab.1.right" timestamp="1575163259559">
+      <screen x="-309" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="375" key="GridCell.Tab.1.right/0.0.1280.800/-309.-1080.1920.1080@-309.-1080.1920.1080" timestamp="1575163259559" />
     <state x="319" y="217" key="com.intellij.ide.util.TipDialog" timestamp="1575149591548">
       <screen x="0" y="23" width="1280" height="723" />
     </state>

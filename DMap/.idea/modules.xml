@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DMap/DMap.iml" filepath="$PROJECT_DIR$/DMap/DMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DashaMaps.iml" filepath="$PROJECT_DIR$/DashaMaps.iml" />
     </modules>
   </component>
 </project>

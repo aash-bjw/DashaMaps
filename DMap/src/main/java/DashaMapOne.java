@@ -37,7 +37,7 @@ public class DashaMapOne implements HashMapX{
 
 
     public void add(Node head, Node newNode){
-        while (head != null){
+        while (head.next != null){
             head = head.next;
         }
         head.next = newNode;
