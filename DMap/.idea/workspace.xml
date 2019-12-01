@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6081d70d-bc54-451f-a6ea-fb1112080ef1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/DashaMaps.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMap/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DashaMap/DashaMap.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ULvx2rUxMkIFTIJcb90awcmAcf" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/DMap" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6081d70d-bc54-451f-a6ea-fb1112080ef1" name="Default Changelist" comment="" />
+      <created>1575148932216</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575148932216</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="464" y="-817" key="#com.intellij.ide.util.MemberChooser" timestamp="1575158504178">
+      <screen x="-309" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="464" y="-817" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800/-309.-1080.1920.1080@-309.-1080.1920.1080" timestamp="1575158504178" />
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom" timestamp="1575152208899">
+      <screen x="-309" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom/0.0.1280.800/-309.-1080.1920.1080@-309.-1080.1920.1080" timestamp="1575152208899" />
+    <state width="1878" height="304" key="GridCell.Tab.0.center" timestamp="1575152208897">
+      <screen x="-309" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.center/0.0.1280.800/-309.-1080.1920.1080@-309.-1080.1920.1080" timestamp="1575152208897" />
+    <state width="1878" height="304" key="GridCell.Tab.0.left" timestamp="1575152208895">
+      <screen x="-309" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.left/0.0.1280.800/-309.-1080.1920.1080@-309.-1080.1920.1080" timestamp="1575152208895" />
+    <state width="1878" height="304" key="GridCell.Tab.0.right" timestamp="1575152208898">
+      <screen x="-309" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.right/0.0.1280.800/-309.-1080.1920.1080@-309.-1080.1920.1080" timestamp="1575152208898" />
+    <state x="319" y="217" key="com.intellij.ide.util.TipDialog" timestamp="1575149591548">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state x="319" y="217" key="com.intellij.ide.util.TipDialog/0.23.1280.723/-309.-1057.1920.1057@0.23.1280.723" timestamp="1575149591548" />
+    <state x="45" y="-814" key="new project wizard" timestamp="1575152315239">
+      <screen x="-309" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="45" y="-814" key="new project wizard/0.0.1280.800/-309.-1080.1920.1080@-309.-1080.1920.1080" timestamp="1575152315239" />
+    <state x="45" y="-814" key="new project wizard/0.23.1280.777/-309.-1080.1920.1080@-309.-1080.1920.1080" timestamp="1575151829377" />
+  </component>
+</project>
